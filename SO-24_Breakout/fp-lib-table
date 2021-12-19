@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SO-24_Breakout")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SO-24_Breakout.pretty")(options "")(descr ""))
+)
